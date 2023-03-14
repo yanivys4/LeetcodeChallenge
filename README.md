@@ -5,7 +5,9 @@ The goal of this forum is to enhance the coding and problem solving skills as we
 Each week I (Yaniv) will randomly choose  a problem from leetcode which will be Easy/Medium level problem.
 The problem instructions (link to leetcode)  will be published under "Wiki".
 
-Each one of us will solve the problem and will add his solution in separate folder with the name of the problem and its name appended.
+Each one of us will solve the problem and will add his solution inside the folder of the problem like below:
+
+LeetcodeChallenge/Container With Most Water/Yaniv/solution.py
 
 Few ground rules:
 1. Feel free to add comments on each others work
