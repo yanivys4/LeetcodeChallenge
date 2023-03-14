@@ -7,7 +7,7 @@ The problem instructions (link to leetcode)  will be published under "Wiki".
 
 Each one of us will solve the problem and will add his solution inside the folder of the problem like below:
 
-LeetcodeChallenge/Container With Most Water/Yaniv/solution.py
+LeetcodeChallenge/Container With Most Water/Yaniv-Shoham/solution.py
 
 Few ground rules:
 1. Feel free to add comments on each others work
